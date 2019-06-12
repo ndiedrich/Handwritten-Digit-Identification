@@ -1,0 +1,5 @@
+Within this folder are three files. 
+
+  - A font file used in the app. 
+  - A .json file containing the configuration of the neural network used, & a path to the standard weights. 
+  - A .bin file containing the weights from a small dataset I created. 
